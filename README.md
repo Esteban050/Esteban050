@@ -1,6 +1,6 @@
-# Hi there, I'm Esteban! 👋
+# Hi there, I'm Esteban! 
 
-## 🚀 Backend Developer | Software Engineering Student
+## Backend Developer | Software Engineering Student
 I'm a Software Engineering student in my final year, focused on building scalable, efficient, and clean backend solutions. I love diving deep into Data Structures, Algorithms, and system performance.
 
 - 🔭 I’m currently working on improving my skills in **Microservices and Cloud Architectures**.
